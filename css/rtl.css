@@ -1,0 +1,71 @@
+
+
+body {
+    direction: rtl;
+}
+
+
+
+/* start landing */
+
+
+
+@keyframes rotate-1-1 {
+    33% {
+        transform: translateX(144px);
+        -webkit-transform: translateX(144px);
+        -moz-transform: translateX(144px);
+        -ms-transform: translateX(144px);
+        -o-transform: translateX(144px);
+}
+
+    49% {
+        transform: translate(144px, 48px);
+        -webkit-transform: translate(144px, 48px);
+        -moz-transform: translate(144px, 48px);
+        -ms-transform: translate(144px, 48px);
+        -o-transform: translate(144px, 48px);
+}
+
+    81% {
+        transform: translate(0px, 48px);
+        -webkit-transform: translate(0px, 48px);
+        -moz-transform: translate(0px, 48px);
+        -ms-transform: translate(0px, 48px);
+        -o-transform: translate(0px, 48px);
+    }
+
+    100% {
+        transform: translate(0px, 0px);
+        -webkit-transform: translate(0px, 0px);
+        -moz-transform: translate(0px, 0px);
+        -ms-transform: translate(0px, 0px);
+        -o-transform: translate(0px, 0px);
+    }
+
+}
+
+/* end landing */
+
+
+
+
+/* start features */
+.features .container .feat-2 .feat::before {
+    right: 0;
+}
+
+
+/* end features */
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+
+
+/* ==== html ==== */
+/* font of line */
+
+/*
+
+<link rel="stylesheet" href="font/Jomhuria/Jomhuria.css">
+
+*/
+
+
+/* font on line */
+/* 
+
+<link href="https://fonts.googleapis.com/css2?family=Jomhuria&display=swap" rel="stylesheet">
+
+
+*/
+
+
+
+
+/* ==== css ==== */
+/* 
+
+font-family: 'Jomhuria', cursive;
+
+*/
+
+/*
+
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+
+*/
+
+
+
+
+
+
+
+
+

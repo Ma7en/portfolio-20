@@ -1,0 +1,20 @@
+
+/* 
+&&&& samll 
+
+*/
+
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+
+
+    /* header */
+    .header .toggle-menu {
+        display: none;
+    }
+
+
+}
+

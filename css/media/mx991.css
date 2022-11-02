@@ -1,0 +1,29 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+
+    /* header */
+    .header .ul-menu li a {
+        font-size: 16px;
+    }
+
+    /* about */
+    .about-me .container {
+        align-items: flex-start;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
